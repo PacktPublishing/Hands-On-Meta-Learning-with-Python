@@ -58,7 +58,7 @@ Sudharsan Ravichandiran is a data scientist, researcher, artificial intelligence
 
 ## Other books by the authors
 * [Hands-On Reinforcement Learning with Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-reinforcement-learning-python#utm_source=github&utm_medium=repository&utm_campaign=9781788836524)
-* [Linux Mint Essentials](https://www.packtpub.com/big-data-and-business-intelligence/hands-deep-learning-algorithms-python#utm_source=github&utm_medium=repository&utm_campaign=9781789344158)
+* [Hands-On Deep Learning Algorithms with Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-deep-learning-algorithms-python#utm_source=github&utm_medium=repository&utm_campaign=9781789344158)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
