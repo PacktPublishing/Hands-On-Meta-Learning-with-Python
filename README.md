@@ -51,9 +51,8 @@ With the following software and hardware list you can run all code files present
 * Deep Reinforcement Learning Hands-On [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/deep-reinforcement-learning-hands#utm_source=github&utm_medium=repository&utm_campaign=9781788834247) [[Amazon]](https://www.amazon.com/dp/1788834240)
 
 ## Get to Know the Author
-**Sudharsan Ravichandiran**
 
-Sudharsan Ravichandiran is a data scientist, researcher, artificial intelligence enthusiast, and YouTuber (search for Sudharsan reinforcement learning). He completed his bachelor's in information technology at Anna University. His area of research focuses on practical implementations of deep learning and reinforcement learning, which includes natural language processing and computer vision. He is an open source contributor and loves answering questions on Stack Overflow. He also authored a best-seller, Hands-On Reinforcement Learning with Python, published by Packt Publishing.
+[**Sudharsan Ravichandiran**](https://www.linkedin.com/in/sudharsan1396/) is a data scientist, researcher, artificial intelligence enthusiast, and YouTuber (search for Sudharsan reinforcement learning). He completed his bachelor's in information technology at Anna University. His area of research focuses on practical implementations of deep learning and reinforcement learning, which includes natural language processing and computer vision. He is an open source contributor and loves answering questions on Stack Overflow. He also authored a best-seller, Hands-On Reinforcement Learning with Python, published by Packt Publishing.
 
 
 ## Other books by the authors
